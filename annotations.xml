@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <project>
+      <id>243874</id>
+      <name>Annotation for image Classification using CVAT</name>
+      <bugtracker></bugtracker>
+      <created>2025-03-06 19:31:16.679825+00:00</created>
+      <updated>2025-03-06 19:39:16.350785+00:00</updated>
+      <tasks>
+        <task>
+          <id>1245830</id>
+          <name>Annotation for image Classification using CVAT</name>
+          <size>45</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2025-03-06 19:31:52.956480+00:00</created>
+          <updated>2025-03-06 19:39:16.348078+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>44</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>2193737</id>
+              <start>0</start>
+              <stop>44</stop>
+              <url>https://app.cvat.ai/api/jobs/2191315</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>saba386</username>
+            <email>sabasarlak77@gmail.com</email>
+          </owner>
+          <assignee>
+            <username>saba386</username>
+            <email>sabasarlak77@gmail.com</email>
+          </assignee>
+        </task>
+      </tasks>
+      <subsets>default</subsets>
+      <owner>
+        <username>saba386</username>
+        <email>sabasarlak77@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>boot</name>
+          <color>#200000</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>sneakers</name>
+          <color>#aa2906</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </project>
+    <dumped>2025-03-07 13:04:14.260680+00:00</dumped>
+  </meta>
+  <image id="0" name="OIG (1).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="1" name="OIG (10).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="2" name="OIG (11).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="3" name="OIG (12).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="4" name="OIG (13).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="5" name="OIG (14).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="6" name="OIG (15).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="7" name="OIG (16).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="8" name="OIG (17).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="9" name="OIG (18).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="10" name="OIG (19).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="11" name="OIG (2).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="12" name="OIG (20).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="13" name="OIG (21).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="14" name="OIG (22).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="15" name="OIG (23).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="16" name="OIG (24).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="17" name="OIG (25).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="18" name="OIG (26).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="19" name="OIG (27).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="20" name="OIG (28).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="21" name="OIG (29).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="22" name="OIG (3).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="23" name="OIG (30).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="24" name="OIG (31).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="25" name="OIG (32).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="26" name="OIG (33).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="27" name="OIG (34).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="28" name="OIG (35).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="29" name="OIG (36).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="30" name="OIG (37).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="31" name="OIG (38).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="32" name="OIG (39).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="33" name="OIG (4).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="34" name="OIG (40).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="35" name="OIG (41).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="36" name="OIG (42).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="37" name="OIG (43).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="38" name="OIG (44).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="39" name="OIG (45).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="40" name="OIG (5).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="41" name="OIG (6).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="42" name="OIG (7).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="sneakers" source="manual">
+    </tag>
+  </image>
+  <image id="43" name="OIG (8).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+  <image id="44" name="OIG (9).jpg" subset="default" task_id="1245830" width="173" height="173">
+    <tag label="boot" source="manual">
+    </tag>
+  </image>
+</annotations>
